@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Abhinav Kumar Jha</h1>
+<h1 align="center">Hey 👋, I'm Abhinav Kumar Jha (Musafir)</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" />
@@ -60,24 +60,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=infinityabhinav&theme=react-dark&area=true&hide_border=true" />
 </p>
-
----
-
-### 🌎 Just for Fun – Where You're Viewing This From
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/Assets/earth.gif" width="200" />
-</p>
-
----
-
-### 🎧 Currently Vibing To
-
-<p align="center">
-  <img src="https://spotify-now-playing-three.vercel.app/api/spotify" width="400" />
-</p>
-
-> 🎵 *Live Now Playing from your Spotify (if setup) – adds personality to your profile!*
 
 ---
 
