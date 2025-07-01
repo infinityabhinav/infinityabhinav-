@@ -1,4 +1,9 @@
 <h1 align="center">Hey 👋, I'm Abhinav Kumar Jha</h1>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" />
+</p>
 <h3 align="center">🚀 Developer | 🎧 Music Lover | 💻 Workaholic Coder | 🌌 Dreamer</h3>
 
 <p align="center">
@@ -54,12 +59,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=infinityabhinav&theme=react-dark&area=true&hide_border=true" />
-</p>
----
-### 💻 Code is my meditation. Here's some digital rain.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" />
 </p>
 
 ---
