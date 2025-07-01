@@ -49,16 +49,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=infinityabhinav&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=infinityabhinav&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinityabhinav&layout=compact&theme=radical" />
-</div>
-
----
-
 ### 📫 Connect with Me
 
 <p align="left">
@@ -72,14 +62,3 @@
 
 ---
 
-### 🌠 Fun Zone
-
-![Code](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
----
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=infinityabhinav" />
-  <br>
-  <b>“Keep building. Keep breaking. Keep learning.”</b> 💡
-</p>
