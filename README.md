@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Abhinav Kumar Jha</h1>
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" />
 </p>
+
 <h3 align="center">🚀 Developer | 🎧 Music Lover | 💻 Workaholic Coder | 🌌 Dreamer</h3>
 
 <p align="center">
@@ -63,9 +63,27 @@
 
 ---
 
+### 🌎 Just for Fun – Where You're Viewing This From
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/Assets/earth.gif" width="200" />
+</p>
+
+---
+
+### 🎧 Currently Vibing To
+
+<p align="center">
+  <img src="https://spotify-now-playing-three.vercel.app/api/spotify" width="400" />
+</p>
+
+> 🎵 *Live Now Playing from your Spotify (if setup) – adds personality to your profile!*
+
+---
+
 ### 📫 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/infinityabhinav/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
@@ -76,15 +94,7 @@
 
 ---
 
-### ✨ Visitors
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=infinityabhinav" />
-</p>
-
----
-
 ### 💬 Final Thought
 
 > **"I believe in turning coffee ☕ into code and ideas into reality."**  
-> Let's build something impactful together! 💻🌍
+> Let’s build something impactful together! 🌍
