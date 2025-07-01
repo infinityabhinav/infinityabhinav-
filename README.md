@@ -56,11 +56,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=infinityabhinav&theme=react-dark&area=true&hide_border=true" />
 </p>
 ---
-
-### 🔥 GitHub Contribution Calendar
+### 💻 Code is my meditation. Here's some digital rain.
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=infinityabhinav&theme=react-dark&area=true" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" />
 </p>
 
 ---
