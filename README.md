@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Developer | 🎧 Music Lover | 💻 Workaholic Coder | 🌌 Dreamer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;Building+cool+stuff+with+code.;Let’s+create+something+amazing!&center=true&width=500&height=45&color=FFA500&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;Building+cool+stuff+with+code.;Let's+create+something+amazing!&center=true&width=500&height=45&color=FFA500&vCenter=true&size=22" />
 </p>
 
 ---
